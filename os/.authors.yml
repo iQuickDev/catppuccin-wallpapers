@@ -1,0 +1,366 @@
+name: os
+wallpapers:
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: elementary-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: zorin-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: pop-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: freebsd-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: android-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: raspberry-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: opensuse-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: mxlinux-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: alpine-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: android-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: apple-colors-big-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: artix-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: various-os-2-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: mxlinux-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: opensuse-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: various-arch-1-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: solus-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: centos-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: raspberry-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: endeavour-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: fedora-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: endeavour-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: endeavour-blue-black-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: nix-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arch-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: solus-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arco-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arco-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: void-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: deepin-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: Lexi
+    author_url: https://github.com/ShyyLexi
+    image_url: crystal-linux-magenta_blue1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: artix-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: void-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: ubuntu-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: manjaro-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: tux-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: debian-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: mint-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: windows-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arch-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: nix-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: apple-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: pop-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: various-os-1-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: mint-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: void-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: deepin-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: freebsd-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arco-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: debian-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: deepin-black-4k.png
+    modified: false
+  - author_name: TGRush
+    author_url: https://github.com/TGRush
+    image_url: elementary-sky-lavender-ascii.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: various-arch-2-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: mint-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: windows-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arch-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: nix-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: void-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: ubuntu-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: manjaro-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: tux-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: debian-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: various-os-3-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: void-black3-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: arch-rainbow-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: apple-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: apple-blue-black-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: garuda-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: zorin-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: Lexi
+    author_url: https://github.com/ShyyLexi
+    image_url: crystal-linux-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: tux-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: pop-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: freebsd-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: gentoo-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: manjaro-black-4k.png
+    modified: false
+  - author_name: Lexi
+    author_url: https://github.com/ShyyLexi
+    image_url: crystal-linux-magenta_pink1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: android-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: opensuse-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: alpine-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: apple-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: windows-black.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: mxlinux-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: apple-colors-small-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: zorin-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: artix-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: ubuntu-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: raspberry-magenta-pink-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: fedora-magenta-blue-1920x1080.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: fedora-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: alpine-black-4k.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: solus-magenta-pink-1920x1080.png
+    modified: false

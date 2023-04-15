@@ -1,0 +1,63 @@
+name: misc
+wallpapers:
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: cat_pacman.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: cat-sound.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: cat_bunnies.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: cat_colors.png
+    modified: false
+  - author_name: Aleksandar Pasaric
+    author_url: https://www.pexels.com/@apasaric/
+    source_url: https://www.pexels.com/photo/lighted-vending-machines-on-street-2338113/
+    image_url: Street.jpg
+    modified: true
+  - author_name: Sylvia Ritter
+    author_url: https://www.deviantart.com/sylviaritter
+    image_url: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de96a427-aecc-41f3-8e1b-3a425360d246/dd05pt5-0c786621-edf1-4189-be13-e5a865205e23.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlOTZhNDI3LWFlY2MtNDFmMy04ZTFiLTNhNDI1MzYwZDI0NlwvZGQwNXB0NS0wYzc4NjYyMS1lZGYxLTQxODktYmUxMy1lNWE4NjUyMDVlMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bjfdaiTKReY4ewl2m2W3LcBAtM9OmZFJC4KYK0TW6S0
+    modified: false
+  - author_name: Jorge Artola
+    author_url: https://www.behance.net/jorgeartola
+    image_url: https://mir-s3-cdn-cf.behance.net/project_modules/fs/625ae194196117.5e7ca25f91309.jpg
+    modified: false
+  - author_name: andreasgrafen
+    author_url: https://github.com/andreasgrafen
+    image_url: windows-error.jpg
+    modified: false
+  - author_name: TGRush
+    author_url: https://github.com/TGRush
+    image_url: rainbow-cat.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: rainbow.png
+    modified: false
+  - author_name: elkrien
+    author_url: https://github.com/elkrien
+    image_url: virus.png
+    modified: false
+  - author_name: ghostx31
+    author_url: https://github.com/ghostx31/
+    image_url: spooky_spill.jpg
+    modified: false
+  - author_name: es183923
+    author_url: https://github.com/es183923
+    image_url: waves.png
+    modified: false
+  - author_name: es183923
+    author_url: https://github.com/es183923
+    image_url: waves_right_colored.png
+    modified: false
+  - author_name: es183923
+    author_url: https://github.com/es183923
+    image_url: waves_colored.png
+    modified: false

@@ -1,0 +1,12 @@
+{
+  "https://esm.sh/react-dom@18.2.0/server": "1192a2f0bae4033ea1090a290c26a0cb78e95fa5d997cda56127d92a1605fe76",
+  "https://esm.sh/react@18.2.0": "84aa07282d2f3c843f7d56daeae0be41ceae768391c4418f7358dd64e8fe4eca",
+  "https://esm.sh/stable/react@18.2.0/deno/react.js": "806868069cfdb815e028419cf07ebc7a7bcba7f9e31dec9e3a045b9f8e82c1ed",
+  "https://esm.sh/v94/@types/prop-types@15.7.5/index.d.ts": "6a386ff939f180ae8ef064699d8b7b6e62bc2731a62d7fbf5e02589383838dea",
+  "https://esm.sh/v94/@types/react-dom@18.0.6/server~.d.ts": "629eba6936be673a289948cf910aaa3846a67c684abc52f34139af18d7a60831",
+  "https://esm.sh/v94/@types/react@18.0.18/global.d.ts": "bbdf156fea2fabed31a569445835aeedcc33643d404fcbaa54541f06c109df3f",
+  "https://esm.sh/v94/@types/react@18.0.18/index.d.ts": "c9752bb7ddce515f735348c7dfea736fda02310e18301e1998f8e8ac064eb415",
+  "https://esm.sh/v94/@types/scheduler@0.16.2/tracing.d.ts": "f5a8b384f182b3851cec3596ccc96cb7464f8d3469f48c74bf2befb782a19de5",
+  "https://esm.sh/v94/csstype@3.1.0/index.d.ts": "ba7617784f6b9aeac5e20c5eea869bbc3ef31b905f59c796b0fd401dae17c111",
+  "https://esm.sh/v94/react-dom@18.2.0/deno/server.js": "d2f11ee2725fcd43b27df1a344b4f69200444958e9b160219194a342f17ebd8e"
+}
